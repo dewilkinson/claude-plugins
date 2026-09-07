@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "dewilkinson",
+  "description": "Private Claude Code plugins for Dave Wilkinson's private builds",
+  "owner": {
+    "name": "Dave Wilkinson"
+  },
+  "plugins": [
+    {
+      "name": "splatlab-dev",
+      "description": "Role pipeline for the private SplatLab build (the private surfels checkout): /requirements and /architect skills that interview the user and write docs, and coder / tester / reviewer subagents that implement, verify, and review against those docs.",
+      "author": {
+        "name": "Dave Wilkinson"
+      },
+      "category": "development",
+      "source": "./plugins/splatlab-dev"
+    }
+  ]
+}

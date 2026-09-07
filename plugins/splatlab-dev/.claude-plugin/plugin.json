@@ -1,0 +1,8 @@
+{
+  "name": "splatlab-dev",
+  "description": "Requirements -> architect -> coder -> tester -> reviewer pipeline for the private SplatLab build. Private: references proprietary paths and the public-sync strip rules.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dave Wilkinson"
+  }
+}
