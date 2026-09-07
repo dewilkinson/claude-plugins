@@ -14,6 +14,15 @@
       },
       "category": "development",
       "source": "./plugins/splatlab-dev"
+    },
+    {
+      "name": "cauldron-dev",
+      "description": "Tooling for AMD Cauldron DX12 projects. /new-cauldron-project scaffolds an empty, buildable Cauldron application (root CMakeLists, CMakeSettings, src/DX12 app + renderer skeleton, Cauldron submodule cloned from a local checkout, prebuilt Cauldron libraries) and generates its Visual Studio solution.",
+      "author": {
+        "name": "Dave Wilkinson"
+      },
+      "category": "development",
+      "source": "./plugins/cauldron-dev"
     }
   ]
 }

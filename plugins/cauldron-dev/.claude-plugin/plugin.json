@@ -1,0 +1,8 @@
+{
+  "name": "cauldron-dev",
+  "description": "Tooling for AMD Cauldron (DirectX 12) projects: /new-cauldron-project scaffolds an empty, buildable Cauldron app (CMake, Visual Studio solution, app + renderer skeleton, Cauldron submodule and prebuilt libraries) in a fresh directory.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dave Wilkinson"
+  }
+}

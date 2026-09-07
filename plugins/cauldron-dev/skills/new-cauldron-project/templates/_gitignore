@@ -1,0 +1,21 @@
+/bin/
+/build/
+/out/
+.vs/
+*.user
+*.sdf
+*.opensdf
+*.suo
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+# ...except the intentionally committed prebuilt Cauldron libraries (see CAULDRON_USE_PREBUILT in
+# the root CMakeLists.txt): real checked-in binaries, not build byproducts.
+!/libs/cauldron-prebuilt/lib/**
+*.dxo
+*.err
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
